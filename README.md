@@ -3,6 +3,8 @@ This lightweight script introduces an intuitive dropdown menu for conveniently s
 
 Ever found yourself scrolling endlessly to locate a specific conversation? Say goodbye to that problem with this simple solution.
 
+![Dropdown Reference](https://github.com/CorbinIvon/gpt-export-content-dropdown/assets/20233488/8a574c99-a783-4529-8fa3-612720086ba6)
+
 This project enriches the user experience of the exported chat.html webpages by integrating a conversation navigation tool. A dropdown menu is added to the webpage, enabling users to effortlessly switch between conversations. Upon selecting a conversation from the dropdown, only its related content is displayed, neatly hiding all others.
 
 ## Usage
