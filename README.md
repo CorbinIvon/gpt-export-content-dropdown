@@ -19,6 +19,9 @@ This project enriches the user experience of the exported chat.html webpages by 
 
 3. Once the page is loaded, a dropdown menu will be readily available on the page, allowing users to choose among different conversations. The content of the selected conversation will be shown, while the rest stay hidden. Simply select your desired conversation.
 
+## Contribution and Collaboration
+Please feel free to pull this project and make changes to it that you feel would be necessary and create a pull request. I would love to see what changes you make!
+
 ## Acknowledgments
 - [GPT-3.5](https://openai.com/blog/openai-api/) for assisting in content generation.
 - [CoPilot](https://copilot.github.com/) for aiding in content creation.
